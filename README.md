@@ -5,9 +5,9 @@
 ## Salam! 👋
 In Bot Yeki Az Bot Haye Khobe Farsi Baraye Azizani Ke Mikhan Bot Mod Dashte Bashan :))
 
-- 🛠️ Developer [Pa9da ᶦᶜᵉ#0001](https://github.com/pa9da)
+- 🛠️ Developer [mamadfps]([[https://discord.gg/UhSjYBdT)))
 
-- 👥 Team [ICE Team](https://discord.gg/kos)
+- 👥 Team [ICE Team](https://discord.gg/UhSjYBdT)
 
 ## Commands Ha
 - ❌ Ban : بن کردن یوزر مورد نظر
@@ -24,7 +24,7 @@ In Bot Yeki Az Bot Haye Khobe Farsi Baraye Azizani Ke Mikhan Bot Mod Dashte Bash
 - 🔈 Dc : دیسی کردن از ویس
 
 ## Tools
-- [Discord Developer Portal](https://discord.com/developers/)
+- [Discord Developer Portal]([https://discord.gg/UhSjYBdT))
 - [VsCode](https://code.visualstudio.com/) The Best IDE
 - [Python](https://www.python.org/) 
 
